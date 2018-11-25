@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="源文件\easy array">
+      <UniqueIdentifier>{7768058e-d0b6-4b62-907d-9db3959ad320}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\medium array">
+      <UniqueIdentifier>{000914d1-6bc5-4834-b05f-8531cb60175f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\easy hashtable">
+      <UniqueIdentifier>{f262f142-28d1-454c-b867-970de9bba68a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\medium hashtable">
+      <UniqueIdentifier>{7bfbf42a-33ba-4001-b63c-4e339749e71e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\easy linked list">
+      <UniqueIdentifier>{4f4ef2ae-01d7-4c87-8d6f-f5cca7dc93a7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\medium linked list">
+      <UniqueIdentifier>{2330e673-18e6-4748-be85-705e75ff273a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="35Search Insert Position.cpp">
+      <Filter>源文件\easy array</Filter>
+    </ClCompile>
+    <ClCompile Include="53Maximum Subarray.cpp">
+      <Filter>源文件\easy array</Filter>
+    </ClCompile>
+    <ClCompile Include="121Best Time to Buy and Sell Stock.cpp">
+      <Filter>源文件\easy array</Filter>
+    </ClCompile>
+    <ClCompile Include="169Majority Element.cpp">
+      <Filter>源文件\easy array</Filter>
+    </ClCompile>
+    <ClCompile Include="283Move Zeroes.cpp">
+      <Filter>源文件\easy array</Filter>
+    </ClCompile>
+    <ClCompile Include="581Shortest Unsorted Continuous Subarray.cpp">
+      <Filter>源文件\easy array</Filter>
+    </ClCompile>
+    <ClCompile Include="f448.ind all numbers dispered in array.cpp">
+      <Filter>源文件\easy array</Filter>
+    </ClCompile>
+    <ClCompile Include="75Sort Colors.cpp">
+      <Filter>源文件\medium array</Filter>
+    </ClCompile>
+    <ClCompile Include="153Sum.cpp">
+      <Filter>源文件\medium array</Filter>
+    </ClCompile>
+    <ClCompile Include="152Maximum Product Subarray.cpp">
+      <Filter>源文件\medium array</Filter>
+    </ClCompile>
+    <ClCompile Include="105Construct Binary Tree from Preorder and Inorder Traversal.cpp">
+      <Filter>源文件\medium array</Filter>
+    </ClCompile>
+    <ClCompile Include="79Word Search.cpp">
+      <Filter>源文件\medium array</Filter>
+    </ClCompile>
+    <ClCompile Include="78Subsets.cpp">
+      <Filter>源文件\medium array</Filter>
+    </ClCompile>
+    <ClCompile Include="1Two Sum.cpp">
+      <Filter>源文件\easy hashtable</Filter>
+    </ClCompile>
+    <ClCompile Include="136Single Number.cpp">
+      <Filter>源文件\easy hashtable</Filter>
+    </ClCompile>
+    <ClCompile Include="源.cpp">
+      <Filter>源文件\easy hashtable</Filter>
+    </ClCompile>
+    <ClCompile Include="3Longest Substring Without Repeating Characters.cpp">
+      <Filter>源文件\medium hashtable</Filter>
+    </ClCompile>
+    <ClCompile Include="49Group Anagrams.cpp">
+      <Filter>源文件\medium hashtable</Filter>
+    </ClCompile>
+    <ClCompile Include="94Binary Tree Inorder Traversal.cpp">
+      <Filter>源文件\medium hashtable</Filter>
+    </ClCompile>
+    <ClCompile Include="347Top K Frequent Elements.cpp">
+      <Filter>源文件\medium hashtable</Filter>
+    </ClCompile>
+    <ClCompile Include="560Subarray Sum Equals K.cpp">
+      <Filter>源文件\medium hashtable</Filter>
+    </ClCompile>
+    <ClCompile Include="234Palindrome Linked List.cpp">
+      <Filter>源文件\easy linked list</Filter>
+    </ClCompile>
+    <ClCompile Include="206Reverse Linked List.cpp">
+      <Filter>源文件\easy linked list</Filter>
+    </ClCompile>
+    <ClCompile Include="160Intersection of Two Linked Lists.cpp">
+      <Filter>源文件\easy linked list</Filter>
+    </ClCompile>
+    <ClCompile Include="141Linked List Cycle.cpp">
+      <Filter>源文件\easy linked list</Filter>
+    </ClCompile>
+    <ClCompile Include="21Merge Two Sorted Lists.cpp">
+      <Filter>源文件\easy linked list</Filter>
+    </ClCompile>
+    <ClCompile Include="19Remove Nth Node From End of List.cpp">
+      <Filter>源文件\medium linked list</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
